@@ -1,0 +1,4 @@
+11:59:39 [main] loginPositiveTest 9 INFO  TestBase - Starting login test
+11:59:42 [main] getContactWord 37 INFO  pages.PageBase - Language specified: English
+11:59:42 [main] getContactWord 37 INFO  pages.PageBase - Language specified: English
+11:59:42 [main] loginPositiveTest 19 INFO  TestBase - Finished login test
